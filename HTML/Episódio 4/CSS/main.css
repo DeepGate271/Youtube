@@ -1,0 +1,21 @@
+.title{
+
+    color:lime;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.text{
+
+    text-align: justify;
+    color: aqua;
+    font-size: 72px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+body{
+
+    background-color: red;
+
+}
